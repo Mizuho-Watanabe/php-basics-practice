@@ -13,5 +13,8 @@ COACHTECH 教材 Tutorial 7-1-6 「PHPの基礎 - ハンズオン演習」で作
 - HTMLファイルにphpの書き方を混ぜる方法
 - Dockerの基本的な使い方
 
+## できなかったこと
+- brタグを使うこと
+
 ## 動作確認
 http://localhost:8000/7-1-6_hands-on/practice/price_calculator.php　にアクセス
