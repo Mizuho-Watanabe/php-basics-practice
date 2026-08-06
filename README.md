@@ -1,7 +1,7 @@
 # price-calculator.php
 
 ## 概要
-COACHTECH 教材 Tutorial 7-1-6 「」で作成した成果物です。
+COACHTECH 教材 Tutorial 7-1-6 「PHPの基礎 - ハンズオン演習」で作成した成果物です。
 
 ## 使用技術
 - HTML5
